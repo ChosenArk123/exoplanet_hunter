@@ -1,0 +1,14 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Virtual Environments (modify if your folder is named differently)
+venv/
+.venv/
+env/
+
+# Mac junk
+.DS_Store
